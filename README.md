@@ -13,4 +13,4 @@ This script is used in my Android application and I extracted it from that.
 6. Open your app and refresh the MySQL table if there is any change.
 ## Usage
 1. Via form.html
-2. Via GET: `push.php?title='Your_Title_here'&message='Your_message_herer'`
+2. Via GET: `push.php?title='Your_Title_here'&message='Your_message_here'`
